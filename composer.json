@@ -1,0 +1,23 @@
+{
+  "authors": [
+    {
+      "name": "Mike Smith",
+      "email": "mail@mikegsmith.co.uk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "description": "Simple class to check if a provided password is clean using the haveibeenpwned.com API",
+  "license": "MIT",
+  "name": "mysof/password-check",
+  "require": {
+    "php": ">=7.3",
+    "symfony/http-client-contracts": "2.4.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "9.*"
+  }
+}
