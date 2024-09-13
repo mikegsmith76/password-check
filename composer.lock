@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e8afdaf87f7cc7b88c8132d8133df553",
+    "content-hash": "0f4dab2876529f0ac8d01ebb02186458",
     "packages": [
         {
             "name": "symfony/http-client-contracts",
